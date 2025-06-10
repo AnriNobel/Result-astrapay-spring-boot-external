@@ -1,0 +1,13 @@
+<div class="container">
+  <h2>Catatan</h2>
+
+  <input [(ngModel)]="newContent" placeholder="Isi catatan..." />
+  <button (click)="addNote()">Tambah</button>
+
+  <ul>
+    <li *ngFor="let note of notes">
+      {{ note.content }}
+      <button (click)="deleteNote(note.id)">Hapus</button>
+    </li>
+  </ul>
+</div>
