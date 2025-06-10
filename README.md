@@ -65,6 +65,11 @@ Mencheck apakah delete berhasil dengan memasukan ID:
 
 ![delete-note](https://github.com/user-attachments/assets/e55c3780-87bf-40b3-a14f-a4b6e0d07c14)
 
+Validasi jika Kosong : 
+
+![post-invalid](https://github.com/user-attachments/assets/62dd3dfd-9c9b-4334-8560-91209b551217)
+
+
 
 ----
 📸 Screenshots 
